@@ -1,0 +1,3 @@
+convert -size 16x16 xc:transparent -fill black -stroke black -draw "ellipse 7.5,7.5 2.5,2.5 0,360" dot.png 
+convert -size 16x16 xc:transparent -fill black -stroke \#030 -draw "ellipse 7.5,7.5 7,7 0,360" b.png 
+convert -size 16x16 xc:transparent -fill white -stroke black -draw "ellipse 7.5,7.5 7.5,7.5 0,360" w.png 

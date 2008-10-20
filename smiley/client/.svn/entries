@@ -1,0 +1,66 @@
+8
+
+dir
+1193
+http://svn.facebook.com/svnroot/platform/samples/smiley/client
+http://svn.facebook.com/svnroot
+
+
+
+2008-07-15T06:20:42.015354Z
+1189
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+41a61cd8-c433-0410-bb1c-e256eeef9e11
+
+facebook.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+0c2bb5e6b93858f3c601d169221ce1a0
+2008-07-15T06:20:42.015354Z
+1189
+
+facebook_desktop.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+c7a4694785df4668c09d6dc1f0d94a52
+2008-07-02T23:15:24.869729Z
+1181
+
+facebookapi_php5_restlib.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+51197d4763795666f77ff5a74f2e1cc9
+2008-07-02T23:15:24.869729Z
+1181
+
+has-props
+
+jsonwrapper
+dir
+

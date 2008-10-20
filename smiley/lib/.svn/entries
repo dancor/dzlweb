@@ -1,0 +1,61 @@
+8
+
+dir
+1193
+http://svn.facebook.com/svnroot/platform/samples/smiley/lib
+http://svn.facebook.com/svnroot
+
+
+
+2008-07-19T20:30:31.806675Z
+1191
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+41a61cd8-c433-0410-bb1c-e256eeef9e11
+
+moods.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+9ce61bf946ba3036fe6830b47f69bf91
+2008-07-11T20:35:28.944881Z
+1187
+
+feed.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+f5229591abcb9a653f6a5b32e26b7761
+2008-05-09T23:10:32.057322Z
+1026
+
+display.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+2f10e409cc83a80744e433fbdc306873
+2008-07-19T20:30:31.806675Z
+1191
+

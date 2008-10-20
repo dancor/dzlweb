@@ -1,0 +1,125 @@
+8
+
+dir
+1193
+http://svn.facebook.com/svnroot/platform/samples/smiley
+http://svn.facebook.com/svnroot
+
+
+
+2008-07-19T20:30:31.806675Z
+1191
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+41a61cd8-c433-0410-bb1c-e256eeef9e11
+
+smile.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+543b3150decaa24822dfe4fa8a0ab91b
+2008-05-29T02:58:01.963903Z
+1062
+
+has-props
+
+handlers
+dir
+
+mysmilies.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+edb2ccb3f01479304bacb6a6539007ac
+2008-07-19T20:30:31.806675Z
+1191
+
+has-props
+
+newsmiley.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+c5ece79021f371c60c68cde51980a71e
+2008-07-19T20:30:31.806675Z
+1191
+
+has-props
+
+sendSmiley.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+a264424edf65bbda1517d6e915c416ab
+2008-05-24T00:50:40.532515Z
+1042
+
+has-props
+
+config
+dir
+
+images
+dir
+
+lib
+dir
+
+css
+dir
+
+js
+dir
+
+README
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+5b8991dbb34cb3545d98c73862b49e00
+2008-05-24T04:03:09.352961Z
+1045
+
+index.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+91ff7a00cf723c2fb27fae7a91bc3327
+2008-07-19T20:30:31.806675Z
+1191
+
+has-props
+
+client
+dir
+

@@ -1,0 +1,50 @@
+8
+
+dir
+1193
+http://svn.facebook.com/svnroot/platform/samples/smiley/config
+http://svn.facebook.com/svnroot
+
+
+
+2008-06-19T08:10:24.150753Z
+1177
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+41a61cd8-c433-0410-bb1c-e256eeef9e11
+
+setup.php
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+0b933ba3e17204d0a6bec4e1c42b6034
+2008-06-19T08:10:24.150753Z
+1177
+
+settings.ini.sample
+file
+
+
+
+
+2008-07-23T23:34:28.000000Z
+c911253050ca3d80b709e18fe5f6b1ac
+2008-05-24T03:51:18.707137Z
+1044
+

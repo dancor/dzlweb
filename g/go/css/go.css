@@ -1,0 +1,43 @@
+.board {
+  font-size: xx-small;
+  background-color: #e90;
+  text-align: center;
+  border-spacing: 0;
+
+  margin: 0;
+}
+.board td {
+  padding: 0;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+
+  margin: 0;
+}
+.bTL {
+  background-image: url(/img/TL.png)
+}
+.bTM {
+  background-image: url(/img/TM.png)
+}
+.bTR {
+  background-image: url(/img/TR.png)
+}
+.bML {
+  background-image: url(/img/ML.png)
+}
+.bMM {
+  background-image: url(/img/MM.png)
+}
+.bMR {
+  background-image: url(/img/MR.png)
+}
+.bBL {
+  background-image: url(/img/BL.png)
+}
+.bBM {
+  background-image: url(/img/BM.png)
+}
+.bBR {
+  background-image: url(/img/BR.png)
+}

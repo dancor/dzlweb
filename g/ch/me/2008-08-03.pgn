@@ -1,0 +1,21 @@
+[Event "Computer chess game"]
+[Site "pima"]
+[Date "2008.08.03"]
+[Round "-"]
+[White "danl"]
+[Black "Crafty-20.14"]
+[Result "1-0"]
+[TimeControl "40/1"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Qe2 Qxe2+ 5. Bxe2 e5 6. Nf3 Nc6 7. b3
+Bf5 8. d3 Bb4 9. Bb2 O-O-O 10. O-O Nf6 11. Nh4 Be6 12. Nf3 Nd4 13. Nxd4
+Rxd4 14. Nb5 Rd5 15. c4 Rc5 16. Rfd1 Kb8 17. a3 Ba5 18. b4 Rxb5 19. cxb5
+Bb6 20. Bxe5 Ng4 21. Bxg4 Bxg4 22. Re1 f6 23. Bf4 Rd8 24. Be3 Rxd3 25. Bxb6
+axb6 26. Re7 Rd7 27. Rxd7 Bxd7 28. a4 Kc8 29. f4 g5 30. fxg5 fxg5 31. Rf1
+Be6 32. Rf6 Kd7 33. Kf2 Bc4 34. Kg3 h5 35. Rf5 h4+ 36. Kf3 Bb3 37. Rxg5
+Bxa4 38. Kg4 Kd6 39. Kxh4 Bb3 40. Kg4 c5 41. bxc5+ bxc5 42. h4 Be6+ 43. Kf4
+c4 44. Rg3 Bd7 45. h5 Bxb5 46. h6 c3 47. Rxc3 Bf1 48. g4 b5 49. h7 Bc4 50.
+h8=Q Kc5 51. Rxc4+ Kxc4 52. Qb2 b4 53. g5 Kd5 54. g6 Ke6 55. Qxb4 Kd7 56.
+Qb6 Ke7 57. Kf5 Ke8 58. Kf6 Kd7 59. g7 Kc8 60. Qa7 Kd8 61. g8=Q#
+{White mates} 1-0
+

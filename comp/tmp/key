@@ -1,0 +1,3 @@
+wget http://download.tuxfamily.org/eeepcrepos/key.asc 
+sudo apt-key add key.asc  
+

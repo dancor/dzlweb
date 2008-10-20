@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/!svn/ver/1191/platform/samples/smiley/handlers
+END
+infoHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/!svn/ver/1026/platform/samples/smiley/handlers/infoHandler.php
+END
+multiFeedHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/!svn/ver/1188/platform/samples/smiley/handlers/multiFeedHandler.php
+END
+profileHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1026/platform/samples/smiley/handlers/profileHandler.php
+END
+feedHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/!svn/ver/1191/platform/samples/smiley/handlers/feedHandler.php
+END
+publishHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1063/platform/samples/smiley/handlers/publishHandler.php
+END
+otherPublishHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/1026/platform/samples/smiley/handlers/otherPublishHandler.php
+END
