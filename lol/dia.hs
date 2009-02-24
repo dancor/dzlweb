@@ -1,16 +1,19 @@
+dia :: [[a]] -> [[a]]
 dia [[]] = [[]]
 dia (topRow:restRows) = zipWith (:) diaLeft $ [[]] ++ diaInner ++ [[]] where
   diaLeft = reverse topRow ++ restHeads
   diaInner = dia restTails
   (restHeads, restTails) = unzip $ map (\ (x:xs) -> (x, xs)) restRows
 
-p ls = mapM_ putStrLn ls >> putStrLn ""
+p :: [String] -> IO ()
+p = putStr . unlines . (++ [""])
 
-main = do 
+main :: IO ()
+main = do
   p $ dia [
-    "HE", 
+    "HE",
     "WO"
-    ]     
+    ]
   p $ dia [
     "HELLO",
     "WORLD",

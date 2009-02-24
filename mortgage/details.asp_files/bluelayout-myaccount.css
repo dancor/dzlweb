@@ -1,0 +1,259 @@
+*{margin:0;padding:0;}
+body{font-family:Arial,Verdana,Helvetica,sans-serif;line-height:16px;font-size:small;background:#DAE8EB url(/images/redesign/bg_main2.gif) repeat-x top;color:#163F4A;}
+a{font-weight:normal;color:#0188c7;text-decoration:underline;}
+a:link{color:#0188c7;text-decoration:underline;}
+a:visited{color:#005397;}
+a:active{color:purple;}
+a:hover{text-decoration:none;}
+ul{list-style:none;}
+li{line-height:130%;}
+
+#statusweb_wrapper{clear:both;background-color:#FFF;overflow:auto;border:5px solid #5394A1;margin:20px auto 0pt;width:982px;text-align:left;padding:10px;}
+#header{float:left;padding:0px 15px 3px 15px;}
+#header #left{float:left;padding-top:12px;width:250px;}
+#header #left2{float:left;padding-top:12px;width:300px;}
+#header #right{float:right;text-align:right;}
+#header #partners{float:left;width:200px;}
+#header #partners img{padding-top:30px;}
+.search2{font-size:85%;word-spacing:2px;width:350px;}
+.search{font-size:85%;word-spacing:2px;width:500px;}
+.search a{line-height:190%;word-spacing:-.8px;}
+.red{color:#990033;}
+.bigred{clear:both;font-size:250%;color:#990033;font-weight:bold;padding-top:10px;}
+.orange{color:#e26a16;}
+.apr-red{color:#990033;padding:0px;margin:0px;}
+.rightalign{float:right;padding:0px;margin:0px;}
+.hr_gray{clear:both;border-bottom:1px solid #ccc;margin:0px 0px 15px;padding:0px 15px 0px;width:200px;}
+#right #cc_contactinfo{font-size:123.1%;font-weight:bold;padding:19px 0px 2px 0px;width:500px;}
+#right #cc_contactinfo2{font-size:123.1%;font-weight:bold;padding:19px 0px 2px 0px;width:350px;}
+#right img{vertical-align:middle;padding:0px 5px 0px 3px;}
+#footer{clear:both;line-height:150%;margin:20px auto;width:930px;text-align:left;}
+#footer p{padding-bottom:10px;}
+
+#top_nav{float:left;background:url('/images/redesign/bg_nav.gif') no-repeat;font-size:100% !important;height:37px;width:951px;border-bottom:20px solid #168ca7;margin:3px 0px 0px 15px;_margin:3px 0px 0px 10px;}
+#top_nav ul{list-style:none;padding:0px !important;clear:both;margin:0px 0px 0px 8px;}
+#top_nav li{float:left;padding:10px 3px 10px 2px;border-right:#94d3e7 1px groove;}
+#top_nav li a{color:#083a47;font-weight:bold;text-decoration:none;padding:10px 3px;}
+#top_nav li a:hover{text-decoration:underline;background:url('/images/redesign/bg_topnav_hover.gif') bottom repeat-x;color:#fff;}
+.top_nav_active{border:0px !important;float:left;padding:10px 0px 10px 4px !important;}
+.top_nav_active a{color:#083a47;font-weight:bold;text-decoration:none;padding:10px 0px 10px 2px !important;}
+.top_nav_active a:hover{border:0px;text-decoration:underline;background:url('/images/redesign/bg_topnav_hover.gif') bottom repeat-x;color:#fff;}
+#top_nav .top_nav_highlight{background:url('/images/redesign/bg_topnav_hover.gif') bottom repeat-x;color:#fff;}
+#top_nav .top_nav_highlight a{color:#fff;text-decoration:none;}
+
+#content-wrapper{float:left;width:975px;}
+#content-wrapper .right{float:left;width:230px;margin-left:10px;_margin-left:5px;}
+
+#intro-wrapper{float:left;width:950px;margin:0px 0px 0px 15px;_margin:0px 0px 0px 7px;}
+#name{float:left;font-size:138.5%;padding:15px 8px;font-weight:bold;width:500px;}
+#myAccountInfo-wrapper{float:left;width:425px;margin-left:10px;_margin-left:5px;}
+#breadcrumbs{float:left;padding:10px 0px 0px 8px;font-size:93%;color:#0099cc;font-weight:bold;width:500px;}
+#breadcrumbs2{float:left;padding:10px 0px 15px 8px;font-size:93%;color:#0099cc;font-weight:bold;width:500px;}
+#login-wrapper{float:left;}
+.login{float:left;text-align:right;margin:4px 8px 10px 0px;width:300px;}
+.account-login{float:right;text-align:right;margin:4px 0px 10px 0px;}
+
+.wide_space{float:left;width:710px;height:10px;}
+#history-wide-header{clear:both;background:url('/images/myaccount/titlebar.gif') top center no-repeat;height:25px;padding:12px 0px 0px 0px;width:710px;margin-top:15px;}
+#history-wide-header h1{float:left;font-size:123.1%;margin:0px;padding:0px 0px 0px 12px;width:540px;}
+.history-box{float:left;width:698px;border-left:1px solid #91d0e6;font-weight:bold;border-right:1px solid #91d0e6;border-bottom:1px solid #91d0e6;padding:10px 0px 0px 10px;}
+.history-wide-items-wrapper{clear:both;float:left;height:25px;width:693px;}
+.history-wide-item{float:left;width:170px;padding:3px 0px 5px 3px;font-size:93%;}
+.history-wide-item a{font-size:110%;font-weight:bold;}
+.hr_gray_wide{clear:both;border-bottom:1px solid #ccc;height:2px;width:660px;}
+
+.history{float:left;background:#eef7fb url('/images/myaccount/history-header.gif') top left no-repeat;border:1px solid #b0d3dc;width:227px;padding:45px 5px 0px;}
+.historyname{clear:both;font-weight:bold;font-size:100%;padding:0px 0px 5px 3px}
+.fullrow{float:left;width:225px;padding:10px 0px 0px 3px;border-top:1px solid #999;}
+.thirdrow{float:left;width:74px;padding:3px 0px 5px 3px;font-size:93%;margin:0px 2px 0px 0px;}
+.thirdrow-center{float:left;width:70px;padding:3px 0px 5px;font-size:93%;margin:0px 2px 0px 0px;text-align:center;}
+.active-history{float:left;background-color:#ffffcc;width:230px;}
+.inactive-history{float:left;width:230px;}
+.howthisworks{clear:both;overflow:auto;width:227px;background:transparent url('/images/myaccount/howthisworks.jpg') top left no-repeat;padding:74px 0px 10px 10px;font-weight:bold;}
+.howthisworks p{float:left;padding:8px 0px;margin:0px;width:207px;}
+.howthisworks .howthisworks-bullet{float:left;padding:0px 5px 0px 0px;width:16px;vertical-align:middle;}
+.howthisworks .howthisworks-text{float:left;padding:0px 0px 8px 5px;width:200px;}
+.needhelp{clear:both;overflow:auto;background:transparent url('/images/myaccount/needhelp.jpg') top left no-repeat;padding:45px 0px 10px 10px;font-weight:bold;}
+.needhelp p{margin:0px;padding:10px 0px 0px 0px;}
+#needhelp-header{float:left;overflow:auto;border-left:1px solid #fff;background:transparent url('/images/myaccount/needhelp2.jpg') top center no-repeat;padding:47px 0px 5px 6px;font-weight:bold;width:180px;font-size:93%;}
+#needhelp-header p{margin:0px;padding:0px;}
+.needhelp2{float:left;overflow:auto;border-left:1px solid #fff;background:transparent url('/images/myaccount/needhelp2.jpg') top center no-repeat;padding:40px 0px 5px 6px;font-weight:bold;width:180px;font-size:93%;}
+.needhelp2 p{margin:0px;padding:10px 0px 0px 0px;}
+.mycreditcenter{clear:both;overflow:auto;background:transparent url('/images/myaccount/mycreditcenter.jpg') top left no-repeat;padding:45px 0px 10px 10px;font-weight:bold;}
+.mycreditcenter p{margin:0px;padding:10px 0px 0px 0px;}
+
+#content-wrapper .left{float:left;width:710px;_width:705px;margin:0px 0px 0px 15px;_margin:0px 0px 0px 7px;}
+#tab1{display:block;}
+#activetab1{clear:both;width:689px;margin:15px 0px 0px 7px;padding:0px;background:url('/images/myaccount/tab1-active.gif') no-repeat;height:36px;}
+#activetab1 ul{margin:0px 0px 0px 15px;}
+#activetab1 li{float:left;font-weight:bold;padding:9px 0px 0px 0px;width:132px;text-align:center;}
+#tab2{display:none;}
+#activetab2{clear:both;width:689px;margin:15px 0px 0px 7px;padding:0px;background:url('/images/myaccount/tab2-active.gif') no-repeat;height:36px;}
+#activetab2 ul{margin:0px 0px 0px 15px;}
+#activetab2 li{float:left;font-weight:bold;padding:9px 0px 0px 0px;width:132px;text-align:center;}
+#tab3{display:none;}
+#activetab3{clear:both;width:689px;margin:15px 0px 0px 7px;padding:0px;background:url('/images/myaccount/tab3-active.gif') no-repeat;height:36px;}
+#activetab3 ul{margin:0px 0px 0px 15px;}
+#activetab3 li{float:left;font-weight:bold;padding:9px 0px 0px 0px;width:132px;text-align:center;}
+#loansummary{float:left;width:708px;border-left:1px solid #91d0e6;font-weight:bold;border-right:1px solid #91d0e6;border-bottom:1px solid #91d0e6;padding:0px 0px 10px}
+.summary{padding:0px 15px;margin:15px 0px;}
+.nobold{font-weight:normal;}
+.LTLConditionalLoanOfferStatement{float:left;width:650px;text-align:center;}
+.affinity_message{width:708px; text-align:left;padding:0px 0px 10px 0px;margin:0px 0px 0px 0px;font-weight:bold;font-size:120%;line-height:normal;}
+.ConditionalOffersDisclosure{padding: 0px 40px 0px 40px;font-weight:normal;}
+
+#LenderView{display:block;}
+#SortByInterestRate{display:none;}
+#SortByPayment{display:none;}
+#OfferOverviewDetails{display:block;}
+#RatePaymentDetails{display:block;}
+#OfferDescriptionDetails{display:none;}
+#OfferConditionsDetails{display:none;}
+
+#producttitle-wrapper{clear:both;background:url('/images/myaccount/titlebar.gif') top center no-repeat;height:25px;padding:12px 0px 0px 0px;width:710px;}
+#producttitle-wrapper h1{float:left;font-size:123.1%;margin:0px;padding:0px 0px 0px 12px;width:540px;}
+#producttitle-wrapper h1 a{font-weight:bold;}
+#date{float:left;font-size:108%;font-weight:bold;}
+#tabfolder{clear:both;background-color:#eef7fb;border-left:1px solid #91d0e6;border-right:1px solid #91d0e6;border-bottom:1px solid #91d0e6;width:688px;margin-left:7px;padding:10px 0px;}
+.productbox{float:left;margin-left:1px;background:url('/images/myaccount/bg_shadowbox.gif') repeat-y;width:686px;}
+.productbox .lenderinfo{float:left;width:375px;padding:0px 0px 0px 25px;line-height:normal;}
+.productbox .lenderinfo_wrapper{float:left;width:650px;padding:0px 0px 0px 25px;line-height:normal;}
+.productbox .lendername{float:left;width:375px;padding:0px 0px 0px 0px;line-height:normal;}
+.productbox .contact{float:left;width:250px;}
+.productbox h1{font-size:138.5%;padding:0px 0px 15px 0px;margin:0px;}
+.productbox img{padding:0px 2px 0px 0px;margin:0px;}
+.productbox .morelender-info{padding:8px 0px;font-size:93%;}
+.productbox .morelender-info img{ vertical-align:middle;padding:0px 5px 0px 0px;}
+.productbox .contact-info{padding:0px;font-weight:bold;}
+.productbox .contact-info img{ vertical-align:middle;padding:0px 1px 0px 10px;}
+.scorecard-rating{padding:0px 25px 15px 0px;font-size:93%;text-align:right;}
+.scorecard-rating img{ vertical-align:middle;padding:0px 1px 0px 0px;}
+.scorecard-rating-home {padding:0px 25px 15px 0px;font-size:93%;text-align:left;}
+.scorecard-rating-home img{ vertical-align:middle;padding:0px 1px 0px 0px;}
+.productbox .lenderoffer{float:left;width:270px;font-size:138.5%;}
+.productbox .lenderoffer p{margin:0px;line-height:normal;}
+.productbox .loan-row_wrapper{float:left;width:650px;padding:0px 0px 0px 25px;line-height:normal;}
+.inactive-row_wrapper{float:left;width:650px;padding:0px 0px 10px 25px;line-height:normal;}
+
+.comparison{clear:both;padding:12px 0px 0px 15px;}
+.comparison .loan-row{float:left;width:644px;background:url('/images/myaccount/bg_loan.gif') repeat-y;padding:0px 0px 10px 15px;margin:5px 0px;}
+.comparison .gray-bullet{float:left;padding-top:40px;}
+.comparison .rates{float:left;width:161px;padding:20px 0px 0px 5px;}
+.comparison .rates .bigred{font-size:290%;color:#990033;line-height:normal;}
+.comparison .details{float:left;width:156px;padding-top:20px;}
+.comparison .estimatetext{float:left;width:80px;padding:20px 0px 0px 10px;font-weight:normal;}
+.comparison .loanamount{float:left;line-height:normal;background:url('/images/myaccount/bigarrow.gif') top left no-repeat;height:65px;padding:15px 0px 0px 52px;font-size:220%;color:#990033;font-weight:bold;}
+
+.lenderinfo_wrapper h1{font-size:138.5%;padding:0px 0px 0px 0px;margin:0px;}
+.loan-row_wrapper .gray-bullet{float:left;padding-top:40px;}
+.loan-row_wrapper .rates{float:left;width:161px;padding:20px 0px 0px 5px;}
+.loan-row_wrapper .rates .bigred{font-size:290%;color:#990033;line-height:normal;}
+.loan-row_wrapper .details{float:left;width:156px;padding-top:20px;}
+.loan-row_wrapper .estimatetext{float:left;width:80px;padding:20px 0px 0px 10px;font-weight:normal;}
+.loan-row_wrapper .loanamount{float:left;line-height:normal;background:url('/images/myaccount/bigarrow.gif') top left no-repeat;height:65px;padding:15px 0px 0px 52px;font-size:220%;color:#990033;font-weight:bold;}
+.loan-row_wrapper .loanamount_noarrow{float:left;line-height:normal;height:65px;padding:15px 0px 0px 52px;font-size:220%;color:#990033;font-weight:bold;}
+
+.compareoffers{clear:both;padding:8px 0px 8px 5px;background-color:#ffffcc;width:300px;margin:0px 0px 0px 15px;}
+.compareoffers img{ vertical-align:middle;}
+.topshadowbox{clear:both;background:url('/images/myaccount/topshadowbox.gif') top center no-repeat;height:20px;}
+.bottomshadowbox{clear:both;background:url('/images/myaccount/bottomshadowbox.gif') top center no-repeat;height:20px;}
+
+.xsell-wrapper{float:left;width:690px;background-color:#eef7fb;border:1px solid #91d0e6;padding:10px 5px 0px 5px;margin:10px 0px;font-weight:bold;overflow:auto;}
+.xsell-wrapper p{padding:5px 5px 5px 5px;margin:0px;}
+.xsell-content{float:left;background:url('/images/myaccount/xsell-bg.gif') top center no-repeat;width:325px;height:293px;margin:0px 0px 0px 4px;_margin:0px;padding-top:10px;padding-left:15px}
+
+.account-popup{position:absolute;display:none;clear:both;margin-left:-280px;margin-top:20px;border:1px solid #999;width:280px;height:139px;background-color:#fff;padding:15px 15px 10px 7px;font-size:93%;z-index:2;}
+.account-popup img{padding:0px 6px;}
+.LenderView_ContactInfo{position:absolute;display:none;clear:both;margin-top:-60px;margin-left:200px;border:1px solid #999;width:280px;height:109px;background-color:#fff;padding:15px 15px 10px 7px;font-size:93%;z-index:2;}
+.RateView_ContactInfo{position:absolute;display:none;clear:both;margin-top:-20px;margin-left:560px;border:1px solid #999;width:280px;height:109px;background-color:#fff;padding:15px 15px 10px 7px;font-size:93%;z-index:2;}
+.PaymentView_ContactInfo{position:absolute;display:none;clear:both;margin-top:-20px;margin-left:560px;border:1px solid #999;width:280px;height:109px;background-color:#fff;padding:15px 15px 10px 7px;font-size:93%;z-index:2;}
+.CompareView_ContactInfo{position:absolute;display:none;clear:both;margin-top:0px;margin-left:0px;border:1px solid #999;width:280px;height:109px;background-color:#fff;padding:15px 15px 10px 7px;text-align:left;font-size:93%;z-index:2;}
+.scorecard_info{position:absolute;display:none;clear:both;margin-top:0px;margin-left:0px;border:1px solid #999;width:280px;height:109px;background-color:#fff;padding:15px 15px 10px 7px;text-align:left;font-size:93%;z-index:2;}
+.scorecard_info_detailspage{position:absolute;display:none;clear:both;margin-top:0px;margin-left:200px;border:1px solid #999;width:280px;height:109px;background-color:#fff;padding:15px 15px 10px 7px;text-align:left;font-size:93%;z-index:2;}
+
+.welcome-popup{clear:both;border:1px solid #999;width:590px;height:220px;background-color:#fff;font-weight:bold;}
+.welcome-popup .text{float:left;text-align:center;margin:0px auto;width:380px;font-size:100%;padding:15px 25px 5px;}
+.welcome-popup img{padding:10px 0px;}
+.welcome-popup h1{font-size:110%;margin:0px;padding:15px 0px;}
+.welcome-popup .image{float:left;padding:50px 6px 0px;width:142px;height:136px;background:url('/images/myaccount/house.gif') center center no-repeat;}
+.welcome-popup .nothanks{float:left;padding:0px 0px 0px 15px;width:590px;text-align:left;}
+
+.no-offers{float:left;width:630px;margin:20px 0px;}
+.no-offers img{padding:0px 15px 0px 25px;}
+
+.compare-wrapper{float:left;margin:5px 0px 5px 15px;_margin:5px 0px 5px 5px;width:941px;}
+.fullpage-header{float:left;margin-left:15px;_margin-left:10px;width:941px;}
+.compare-box{float:left;width:951px;margin-left:3px;border-left:1px solid #999;border-right:1px solid #999;border-bottom:1px solid #999;}
+.producttitle-fullwrapper{float:left;width:951px;background:url('/images/myaccount/fulltitlebar.gif') top left no-repeat;height:37px;margin-left:3px;}
+.producttitle-fullwrapper h1{float:left;font-size:138.5%;padding:10px 15px;margin:0px;}
+.compare-bg{clear:both;width:911px;overflow:auto;padding:8px 0px 8px 40px;background:url('/images/myaccount/fullpage-bg.gif') top left repeat-y;}
+.compare-boxtop{float:left;height:34px;width:951px;background:url('/images/myaccount/fullpage-boxtop.gif') top center no-repeat;}
+.compare-boxbottom{float:left;height:34px;width:951px;background:url('/images/myaccount/fullpage-boxbottom.gif') top center no-repeat;}
+.border-wrapper{float:left;font-weight:bold;}
+.row_3shaded{float:left;border-bottom:1px solid #999;background:url('/images/myaccount/grid-bg3shaded.gif') top center repeat-y;width:873px;}
+.row_2shaded{float:left;border-bottom:1px solid #999;background:url('/images/myaccount/grid-bg2shaded.gif') top center repeat-y;width:873px;}
+.row_1shaded{float:left;border-bottom:1px solid #999;background:url('/images/myaccount/grid-bg1shaded.gif') top center repeat-y;width:873px;}
+.row_0shaded{float:left;border-bottom:1px solid #999;background:url('/images/myaccount/grid-bg.gif') top center repeat-y;width:873px;}
+.row-nolinebottom_3shaded{float:left;background:url('/images/myaccount/grid-bg3shaded.gif') top center repeat-y;width:873px;}
+.row-nolinebottom_2shaded{float:left;background:url('/images/myaccount/grid-bg2shaded.gif') top center repeat-y;width:873px;}
+.row-nolinebottom_1shaded{float:left;background:url('/images/myaccount/grid-bg1shaded.gif') top center repeat-y;width:873px;}
+.row-nolinebottom_0shaded{float:left;background:url('/images/myaccount/grid-bg.gif') top center repeat-y;width:873px;}
+.row-noline{float:left;}
+.column{float:left;width:176px;padding:10px 3px 0px 8px;font-weight:bold;}
+.column-result{float:left;text-align:center;color:#990033;font-weight:bold;text-align:center;width:130px;padding:10px 3px 10px 3px;overflow:auto;}
+.column-resultbank{float:left;text-align:center;color:#003333;font-weight:bold;width:133px;padding:0px 0px 0px 3px;overflow:hidden;font-size:100%;}
+.comparegrid-lendername{float:left;padding-top:5px;width:136px;height:55px;}
+.comparegrid-lendercontact{float:left;width:136px;overflow:hidden;}
+.column-title{float:left;width:185px;overflow:auto;padding:10px 3px;}
+.lender-title{float:left;width:676px;font-weight:bold;padding:10px 0px 0px 8px;background-color:#e5f2f2;border:1px solid #999;height:30px;font-size:123.1%}
+.fulltitle{float:left;font-weight:bold;padding:10px 0px 0px 8px;background-color:#e5f2f2;border:1px solid #999;width:863px;height:36px;margin-top:15px;}
+.fulltitle img{ vertical-align:middle;padding:0px 5px 0px 0px;}
+.fulltitle2{float:left;font-weight:bold;padding:10px 0px 0px 8px;background-color:#e5f2f2;border:1px solid #999;width:863px;height:36px;}
+.fulltitle2 img{ vertical-align:middle;padding:0px 5px 0px 0px;}
+.column-gray{float:left;width:136px;padding:10px 0px;}
+
+.lender-boxtop{float:left;background:url('/images/myaccount/lender-boxtop.gif') top left no-repeat;height:33px;width:708px;}
+.lender-boxbottom{float:left;background:url('/images/myaccount/lender-boxbottom.gif') top left no-repeat;height:33px;width:708px;}
+.lender-boxbg{float:left;background:url('/images/myaccount/lender-boxbg.gif') top left repeat-y;width:708px;}
+.lenderinfo-wrapper{float:left;width:675px;margin:5px 0px 5px 35px;_margin:5px 0px 5px 18px;}
+.lender-info-left{float:left;width:270px;}
+.lender-info-right{float:left;width:375px;margin-top:50px;}
+.lender-boxbg h1{font-size:146%;line-height:normal;margin:0px;padding:0px;}
+.lender-column1{float:left;width:58px;padding:5px 0px;}
+.lender-column2{float:left;width:46px;padding:5px 0px;}
+.lender-column3{float:left;width:86px;padding:5px 0px;}
+.lender-column4{float:left;width:66px;padding:5px 0px;}
+.lender-column5{float:left;width:99px;padding:5px 0px;}
+.lender-column6{float:left;width:70px;padding:5px 0px;}
+.lender-column7{float:left;width:62px;padding:5px 0px;}
+.lender-column8{float:left;width:78px;padding:5px 0px;}
+.lender-column9{float:left;width:65px;padding:5px 0px;}
+.lender-overview{float:left;font-size:93%;text-align:center;background:url('/images/myaccount/lender-overiewbg.gif ') top left repeat-y;width:631px;margin-bottom:10px;}
+.lender-offerconditions{float:left;font-size:93%;text-align:left;padding:0px 0px 0px 5px;background-color:white;width:624px;border-left:solid 1px gray;border-bottom:solid 1px gray;border-right:solid 1px gray;margin-bottom:10px;}
+.lender-offerconditions p{font-weight:normal;}
+.lender-row{float:left;width:631px;border-bottom:1px solid #999;}
+.lender-rowred{float:left;width:631px;border-bottom:1px solid #999;color:#990033;}
+.lender_3col{float:left;background:url('/images/myaccount/lender-3col.gif ') top left repeat-y;width:631px;border-bottom:1px solid #999;}
+.lender_2col{float:left;width:354px;}
+.lender_2colrow{float:left;border-bottom:1px solid #999;}
+.lender_2colrownone{float:left;}
+.lender_2colrownone .title{float:left;width:185px;text-align:left;padding:7px 0px 7px 5px;}
+.lender_2colrownone .red{float:left;width:164px;color:#990033;padding:5px 0px;}
+.lender_2colrow .title{float:left;width:185px;text-align:left;padding:7px 0px 7px 5px;}
+.lender_2colrow .red{float:left;width:164px;color:#990033;padding:5px 0px;}
+.lender_1col{float:left;text-align:left;width:269px;padding:5px 0px 5px 8px;color:#999;}
+.lender_1col ul{margin:0px;padding:0px;}
+.lender_1col li{margin:0px 0px 0px 20px;list-style:disc;}
+.lender_1col img{padding:4px 0px;vertical-align:middle;}
+.lendertitle{float:left;font-weight:bold;padding:6px 0px 8px 8px;background-color:#e5f2f2;border:1px solid #999;width:621px;line-height:normal;}
+.lendertitle img{ vertical-align:middle;padding:0px 5px 0px 0px;}
+
+.lender-content{float:left;border:1px solid #90cfe4;background-color:#eef7fb;font-weight:bold;font-size:93%;width:212px;padding:8px;}
+.lender-content h1{font-size:123.1%;padding:10px 0px 0px 0px;}
+.lender-content p{font-weight:normal;}
+
+.security_frame{clear:both; height:500px;width:735px;margin: 0px; padding: 0px;}
+.iframe{background-color:#FFFFFF; background-image: none;}
+.ipaddress{color:white;}
+div.smartTipWindow{position: absolute;display: none;width: 300px;height: auto;left: 0px;top: 0px;border-style: ridge;border-width: 2px;border-color: #989A97;background-color: #FFFDE9;z-index: 9999;padding: 2px;font-family: verdana, arial, helvetica, sans-serif;font-size: 100%;text-align:left;}
+.smart_tip {font-size: 1.0em;border: 0; vertical-align:top; padding-left: 5px; padding-top:3px;}
